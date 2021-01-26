@@ -149,3 +149,399 @@ Jan 26, 2021 2:47:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 771
 [0m2021.01.26 14:47:39 INFO  compiling root (3 scala sources)[0m
 [0m2021.01.26 14:47:39 INFO  time: compiled root in 0.82s[0m
+[0m2021.01.26 14:51:38 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 14:51:38 INFO  time: compiled root in 0.6s[0m
+[0m2021.01.26 14:55:31 INFO  compiling root (3 scala sources)[0m
+[0m2021.01.26 14:55:31 INFO  time: compiled root in 0.8s[0m
+[0m2021.01.26 14:55:34 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 14:55:34 INFO  time: compiled root in 0.57s[0m
+Jan 26, 2021 2:55:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 962
+Jan 26, 2021 2:55:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 977
+Jan 26, 2021 2:55:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 990
+[0m2021.01.26 14:56:03 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 14:56:03 INFO  time: compiled root in 50ms[0m
+Jan 26, 2021 2:56:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1047
+[0m2021.01.26 14:56:32 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:5:42: stale bloop error: identifier expected but ']' found.
+class PrevLinkCountMapper extends Mapper[] {
+                                         ^[0m
+[0m2021.01.26 14:56:32 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:7:2: stale bloop error: ']' expected but eof found.
+}
+ ^[0m
+[0m2021.01.26 14:56:32 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:5:42: stale bloop error: identifier expected but ']' found.
+class PrevLinkCountMapper extends Mapper[] {
+                                         ^[0m
+[0m2021.01.26 14:56:32 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:7:2: stale bloop error: ']' expected but eof found.
+}
+ ^[0m
+[0m2021.01.26 14:56:32 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:5:42: stale bloop error: identifier expected but ']' found.
+class PrevLinkCountMapper extends Mapper[] {
+                                         ^[0m
+[0m2021.01.26 14:56:32 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:7:2: stale bloop error: ']' expected but eof found.
+}
+ ^[0m
+[0m2021.01.26 14:56:32 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:5:42: stale bloop error: identifier expected but ']' found.
+class PrevLinkCountMapper extends Mapper[] {
+                                         ^[0m
+[0m2021.01.26 14:56:32 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:7:2: stale bloop error: ']' expected but eof found.
+}
+ ^[0m
+[0m2021.01.26 14:56:34 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:5:42: stale bloop error: identifier expected but ']' found.
+class PrevLinkCountMapper extends Mapper[] {
+                                         ^[0m
+[0m2021.01.26 14:56:34 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:7:2: stale bloop error: ']' expected but eof found.
+}
+ ^[0m
+[0m2021.01.26 14:56:34 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:5:42: stale bloop error: identifier expected but ']' found.
+class PrevLinkCountMapper extends Mapper[] {
+                                         ^[0m
+[0m2021.01.26 14:56:34 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:7:2: stale bloop error: ']' expected but eof found.
+}
+ ^[0m
+Jan 26, 2021 2:57:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1380
+[0m2021.01.26 14:58:00 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 14:58:00 INFO  time: compiled root in 45ms[0m
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala in org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,javax.xml.soap.Text,javax.xml.soap.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala, 335, 335, 376)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala in org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,javax.xml.soap.Text,javax.xml.soap.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala, 335, 335, 377)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala in org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,javax.xml.soap.Text,javax.xml.soap.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala, 335, 335, 370)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala in org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,javax.xml.soap.Text,javax.xml.soap.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala, 335, 335, 371)
+Jan 26, 2021 2:58:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1518
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala in org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,javax.xml.soap.Text,javax.xml.soap.Text,javax.xml.soap.Text]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala, 335, 335, 373)
+[0m2021.01.26 14:58:27 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 14:58:27 INFO  time: compiled root in 68ms[0m
+Jan 26, 2021 2:59:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1566
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala in org.apache.hadoop.mapred.OutputCollector[javax.xml.soap.Text,javax.xml.soap.Text]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala, 505, 505, 531)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala in org.apache.hadoop.mapred.OutputCollector[javax.xml.soap.Text,javax.xml.soap.Text]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala, 505, 505, 531)
+[0m2021.01.26 14:59:52 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 14:59:52 INFO  time: compiled root in 68ms[0m
+Jan 26, 2021 3:00:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1696
+[0m2021.01.26 15:00:46 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:00:46 INFO  time: compiled root in 49ms[0m
+Jan 26, 2021 3:00:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1820
+Jan 26, 2021 3:00:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1819
+[0m2021.01.26 15:01:13 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:01:13 INFO  time: compiled root in 48ms[0m
+[0m2021.01.26 15:01:16 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:01:16 INFO  time: compiled root in 46ms[0m
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala in org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,javax.xml.soap.Text,javax.xml.soap.Text,javax.xml.soap.Text]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala, 511, 511, 549)
+[0m2021.01.26 15:01:40 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:01:40 INFO  time: compiled root in 61ms[0m
+Jan 26, 2021 3:01:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1963
+[0m2021.01.26 15:02:10 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:02:10 INFO  time: compiled root in 68ms[0m
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala in org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala, 517, 517, 555)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala in org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala, 517, 517, 555)
+[0m2021.01.26 15:02:44 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:02:44 INFO  time: compiled root in 71ms[0m
+[0m2021.01.26 15:03:16 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:03:16 INFO  time: compiled root in 62ms[0m
+[0m2021.01.26 15:03:58 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:03:58 INFO  time: compiled root in 64ms[0m
+[0m2021.01.26 15:04:22 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:22 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:26 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:26 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:32 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:32 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:36 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:36 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:38 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:38 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:46 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:46 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:46 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:46 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:48 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:48 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:48 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:48 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:48 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:48 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:50 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:50 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:50 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:50 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:51 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:51 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:51 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:04:52 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:05:23 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:05:23 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:05:25 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:05:25 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:05:25 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:05:26 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:05:27 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:18:14: stale bloop error: type Context is not a member of org.apache.hadoop.mapred.Mapper[org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text]
+    context: Mapper[LongWritable, Text, Text, Text]#Context
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:05:27 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:05:27 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:23:79: stale bloop error: unclosed string literal
+      context.write(new Text(record(0)), new Text(s"${record(1)\\t${record(3)}"))
+                                                                              ^[0m
+[0m2021.01.26 15:05:27 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:23:79: stale bloop error: unclosed string literal
+      context.write(new Text(record(0)), new Text(s"${record(1)\\t${record(3)}"))
+                                                                              ^[0m
+[0m2021.01.26 15:05:27 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:25:6: stale bloop error: unclosed string literal
+    }
+     ^[0m
+[0m2021.01.26 15:05:27 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:25:5: stale bloop error: Missing closing brace `}` assumed here
+    }
+    ^[0m
+[0m2021.01.26 15:05:27 INFO  time: compiled root in 56ms[0m
+[0m2021.01.26 15:05:30 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:23:79: stale bloop error: unclosed string literal
+      context.write(new Text(record(0)), new Text(s"${record(1)\\t${record(3)}"))
+                                                                              ^[0m
+[0m2021.01.26 15:05:30 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:25:6: stale bloop error: unclosed string literal
+    }
+     ^[0m
+[0m2021.01.26 15:05:30 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:25:5: stale bloop error: Missing closing brace `}` assumed here
+    }
+    ^[0m
+[0m2021.01.26 15:05:30 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:23:79: stale bloop error: unclosed string literal
+      context.write(new Text(record(0)), new Text(s"${record(1)\\t${record(3)}"))
+                                                                              ^[0m
+[0m2021.01.26 15:05:30 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:25:6: stale bloop error: unclosed string literal
+    }
+     ^[0m
+[0m2021.01.26 15:05:30 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/PrevLinkCountMapper.scala:25:5: stale bloop error: Missing closing brace `}` assumed here
+    }
+    ^[0m
+[0m2021.01.26 15:05:31 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:05:31 INFO  time: compiled root in 63ms[0m
+[0m2021.01.26 15:05:56 WARN  no build target for: /home/amburkee/Project1/wc/src/main/scala/example/WordMapper.scala[0m
+[0m2021.01.26 15:06:18 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:06:18 INFO  time: compiled root in 0.57s[0m
+[0m2021.01.26 15:06:18 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:06:18 INFO  time: compiled root in 0.11s[0m
+Jan 26, 2021 3:07:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2635
+[0m2021.01.26 15:07:15 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:07:15 INFO  time: compiled root in 0.51s[0m
+[0m2021.01.26 15:07:15 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:07:15 INFO  time: compiled root in 76ms[0m
+[0m2021.01.26 15:07:46 INFO  compiling root (3 scala sources)[0m
+[0m2021.01.26 15:07:46 INFO  time: compiled root in 0.7s[0m
+[0m2021.01.26 15:08:07 INFO  compiling root (3 scala sources)[0m
+[0m2021.01.26 15:08:07 INFO  time: compiled root in 0.72s[0m
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 169, 169, 203)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 169, 169, 204)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 169, 169, 197)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 169, 169, 198)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 169, 169, 201)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 169, 169, 200)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,Int]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 169, 169, 199)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 169, 169, 200)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 169, 169, 201)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 169, 169, 203)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.IntWritable]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 169, 169, 207)
+[0m2021.01.26 15:08:38 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:08:38 INFO  time: compiled root in 0.65s[0m
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.IntWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.IntWritable]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 313, 313, 358)
+[0m2021.01.26 15:08:58 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:08:58 INFO  time: compiled root in 0.38s[0m
+[0m2021.01.26 15:08:58 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:08:58 INFO  time: compiled root in 65ms[0m
+Jan 26, 2021 3:09:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3073
+Jan 26, 2021 3:10:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3179
+Jan 26, 2021 3:10:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3253
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 428)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 421)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 422)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 424)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 423)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 423)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 423)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 423)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 423)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[org.apache.hadoop.io.Text]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 418)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[org.apache.hadoop.io.Text]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 418)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[org.apache.hadoop.io.Text]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 418)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[org.apache.hadoop.io.Text]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 418)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[org.apache.hadoop.io.Text]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 418)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[org.apache.hadoop.io.Text]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 418)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[org.apache.hadoop.io.Text]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 418)
+Jan 26, 2021 3:11:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3529
+Jan 26, 2021 3:11:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3531
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 433, 433, 467)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 433, 433, 468)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 433, 433, 461)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 433, 433, 462)
+Jan 26, 2021 3:11:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3549
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,Int]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 433, 433, 463)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 433, 433, 464)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 433, 433, 465)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.IntWritable]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 433, 433, 471)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.IntWritable]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 433, 433, 471)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.IntWritable]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 433, 433, 471)
+[0m2021.01.26 15:11:24 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:11:24 INFO  time: compiled root in 0.42s[0m
+[0m2021.01.26 15:11:24 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:11:24 INFO  time: compiled root in 62ms[0m
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.io.IntWritable]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 433, 433, 471)
+Jan 26, 2021 3:11:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3654
+Jan 26, 2021 3:11:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3682
+Jan 26, 2021 3:13:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3821
+Jan 26, 2021 3:13:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3858
+[0m2021.01.26 15:14:01 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:14:01 INFO  time: compiled root in 64ms[0m
+Jan 26, 2021 3:15:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4224
+Jan 26, 2021 3:15:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4317
+Jan 26, 2021 3:15:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4338
+Jan 26, 2021 3:15:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4353
+Jan 26, 2021 3:16:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4407
+Jan 26, 2021 3:16:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4460
+[0m2021.01.26 15:16:49 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:16:49 INFO  time: compiled root in 81ms[0m
+[0m2021.01.26 15:17:14 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:17:14 INFO  time: compiled root in 0.11s[0m
+[0m2021.01.26 15:17:21 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:17:21 INFO  time: compiled root in 72ms[0m
+[0m2021.01.26 15:17:32 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala:26:15: stale bloop error: value spl is not a member of String
+did you mean split?
+      val n = nextValue.spl
+              ^^^^^^^^^^^^^[0m
+[0m2021.01.26 15:17:43 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:17:43 INFO  time: compiled root in 0.54s[0m
+[0m2021.01.26 15:17:43 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:17:43 INFO  time: compiled root in 64ms[0m
+[0m2021.01.26 15:18:20 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:18:20 INFO  time: compiled root in 0.48s[0m
+[0m2021.01.26 15:18:20 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:18:20 INFO  time: compiled root in 65ms[0m
+Jan 26, 2021 3:18:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4730
+[0m2021.01.26 15:19:22 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:19:22 INFO  time: compiled root in 50ms[0m
+[0m2021.01.26 15:19:33 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:19:33 INFO  time: compiled root in 47ms[0m
+Jan 26, 2021 3:19:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4971
+[0m2021.01.26 15:19:45 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala:30:7: stale bloop error: illegal start of simple expression
+      }
+      ^[0m
+[0m2021.01.26 15:19:45 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala:30:7: stale bloop error: illegal start of simple expression
+      }
+      ^[0m
+[0m2021.01.26 15:19:50 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala:30:7: stale bloop error: illegal start of simple expression
+      }
+      ^[0m
+[0m2021.01.26 15:19:50 INFO  /home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala:30:7: stale bloop error: illegal start of simple expression
+      }
+      ^[0m
+[0m2021.01.26 15:19:56 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:19:56 INFO  time: compiled root in 0.55s[0m
+[0m2021.01.26 15:19:56 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:19:56 INFO  time: compiled root in 67ms[0m
+[0m2021.01.26 15:20:35 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:20:35 INFO  time: compiled root in 0.55s[0m
+[0m2021.01.26 15:20:35 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:20:35 INFO  time: compiled root in 55ms[0m
+[0m2021.01.26 15:22:33 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:22:33 INFO  time: compiled root in 0.52s[0m
+[0m2021.01.26 15:22:33 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 15:22:33 INFO  time: compiled root in 67ms[0m
+Jan 26, 2021 3:22:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5257
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala in Iterable[org.apache.hadoop.io.Text]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/MaxPrevCountReducer.scala, 394, 404, 418)
+[0m2021.01.26 15:23:44 INFO  compiling root (3 scala sources)[0m
+[0m2021.01.26 15:23:44 INFO  time: compiled root in 0.11s[0m
+[0m2021.01.26 15:23:56 INFO  compiling root (3 scala sources)[0m
+[0m2021.01.26 15:23:56 INFO  time: compiled root in 0.1s[0m
+[0m2021.01.26 15:24:02 INFO  compiling root (3 scala sources)[0m
+[0m2021.01.26 15:24:02 INFO  time: compiled root in 0.1s[0m
+[0m2021.01.26 15:24:30 INFO  compiling root (3 scala sources)[0m
+[0m2021.01.26 15:24:30 INFO  time: compiled root in 0.7s[0m

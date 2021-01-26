@@ -18,13 +18,13 @@ object CspDriver {
     //we start by instantiating a Job object we can configure
     val job = Job.getInstance()
     job.setJarByClass(CspDriver.getClass())
-    job.setJobName("Intro Word Count (csp)")
+    job.setJobName("Intro Clickerstream Processor (csp)")
     job.setInputFormatClass(classOf[TextInputFormat])
     FileInputFormat.setInputPaths(job, new Path(args(0)))
     FileOutputFormat.setOutputPath(job, new Path(args(1)))
 
-    job.setMapperClass(classOf[CspMapper])
-    job.setReducerClass(classOf[CspReducer])
+    job.setMapperClass(classOf[PrevLinkCountMapper])
+    job.setReducerClass(classOf[MaxPrevCountReducer])
 
     job.setOutputKeyClass(classOf[Text])
     job.setOutputValueClass(classOf[IntWritable])
