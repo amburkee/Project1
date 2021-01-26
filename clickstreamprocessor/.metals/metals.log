@@ -1,0 +1,102 @@
+[0m2021.01.26 14:32:03 INFO  Started: Metals version 0.9.10 in workspace '/home/amburkee/Project1/clickstreamprocessor' for client vscode 1.52.1.[0m
+[0m2021.01.26 14:32:04 INFO  time: initialize in 0.43s[0m
+[0m2021.01.26 14:32:04 WARN  Build server is not auto-connectable.[0m
+[0m2021.01.26 14:32:04 WARN  no build target for: /home/amburkee/Project1/clickstreamprocessor/build.sbt[0m
+[0m2021.01.26 14:32:06 INFO  no build target: using presentation compiler with only scala-library[0m
+[0m2021.01.26 14:32:11 WARN  no build target for: /home/amburkee/Project1/clickstreamprocessor/build.sbt[0m
+[0m2021.01.26 14:32:11 WARN  Unable to produce semanticdb for /home/amburkee/Project1/clickstreamprocessor/build.sbt[0m
+Jan 26, 2021 2:32:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+Jan 26, 2021 2:32:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 47
+[0m2021.01.26 14:32:43 WARN  code navigation does not work for the file '/home/amburkee/Project1/clickstreamprocessor/build.sbt' because it doesn't belong to a build target.[0m
+[0m2021.01.26 14:32:43 WARN  code navigation does not work for the file '/home/amburkee/Project1/clickstreamprocessor/build.sbt' because it doesn't belong to a build target.[0m
+[0m2021.01.26 14:32:43 WARN  no build target for: /home/amburkee/Project1/clickstreamprocessor/build.sbt[0m
+[0m2021.01.26 14:32:43 WARN  Unable to produce semanticdb for /home/amburkee/Project1/clickstreamprocessor/build.sbt[0m
+[0m2021.01.26 14:33:12 WARN  no build target for: /home/amburkee/Project1/clickstreamprocessor/project/plugins.sbt[0m
+[0m2021.01.26 14:33:12 WARN  no build target for: /home/amburkee/Project1/clickstreamprocessor/project/plugins.sbt[0m
+[0m2021.01.26 14:33:12 WARN  Unable to produce semanticdb for /home/amburkee/Project1/clickstreamprocessor/project/plugins.sbt[0m
+[0m2021.01.26 14:33:28 WARN  no build target for: /home/amburkee/Project1/wc/project/plugins.sbt[0m
+[0m2021.01.26 14:33:33 WARN  no build target for: /home/amburkee/Project1/clickstreamprocessor/project/plugins.sbt[0m
+[0m2021.01.26 14:33:33 WARN  Unable to produce semanticdb for /home/amburkee/Project1/clickstreamprocessor/project/plugins.sbt[0m
+[0m2021.01.26 14:33:56 INFO  running '/usr/lib/jvm/java-8-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals861016766323371467/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2021.01.26 14:33:56 WARN  no build target for: /home/amburkee/Project1/clickstreamprocessor/project/metals.sbt[0m
+[0m2021.01.26 14:33:56 WARN  no build target for: /home/amburkee/Project1/clickstreamprocessor/project/project/metals.sbt[0m
+[0m2021.01.26 14:33:56 WARN  Unable to produce semanticdb for /home/amburkee/Project1/clickstreamprocessor/project/metals.sbt[0m
+[0m2021.01.26 14:33:56 WARN  Unable to produce semanticdb for /home/amburkee/Project1/clickstreamprocessor/project/project/metals.sbt[0m
+[0m2021.01.26 14:33:57 INFO  [info] welcome to sbt 1.4.6 (Private Build Java 1.8.0_275)[0m
+[0m2021.01.26 14:33:59 INFO  [info] loading settings for project clickstreamprocessor-build-build-build from metals.sbt ...[0m
+[0m2021.01.26 14:33:59 INFO  [info] loading project definition from /home/amburkee/Project1/clickstreamprocessor/project/project/project[0m
+[0m2021.01.26 14:34:01 INFO  [info] loading settings for project clickstreamprocessor-build-build from metals.sbt ...[0m
+[0m2021.01.26 14:34:01 INFO  [info] loading project definition from /home/amburkee/Project1/clickstreamprocessor/project/project[0m
+[0m2021.01.26 14:34:03 INFO  [success] Generated .bloop/clickstreamprocessor-build-build.json[0m
+[0m2021.01.26 14:34:03 INFO  [success] Total time: 1 s, completed Jan 26, 2021 2:34:03 PM[0m
+[0m2021.01.26 14:34:03 INFO  [info] loading settings for project clickstreamprocessor-build from metals.sbt,plugins.sbt ...[0m
+[0m2021.01.26 14:34:03 INFO  [info] loading project definition from /home/amburkee/Project1/clickstreamprocessor/project[0m
+[0m2021.01.26 14:34:05 INFO  [success] Generated .bloop/clickstreamprocessor-build.json[0m
+[0m2021.01.26 14:34:05 INFO  [info] compiling 1 Scala source to /home/amburkee/Project1/clickstreamprocessor/project/target/scala-2.12/sbt-1.0/classes ...[0m
+[0m2021.01.26 14:34:06 INFO  skipping build import with status 'Dismissed'[0m
+[0m2021.01.26 14:34:07 INFO  [info] done compiling[0m
+[0m2021.01.26 14:34:07 INFO  [success] Total time: 4 s, completed Jan 26, 2021 2:34:08 PM[0m
+[0m2021.01.26 14:34:09 INFO  [info] loading settings for project root from build.sbt ...[0m
+[0m2021.01.26 14:34:09 INFO  [info] set current project to clickstreamporcessor (in build file:/home/amburkee/Project1/clickstreamprocessor/)[0m
+[0m2021.01.26 14:34:09 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.[0m
+[0m2021.01.26 14:34:09 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.[0m
+[0m2021.01.26 14:34:10 INFO  [success] Generated .bloop/root.json[0m
+[0m2021.01.26 14:34:10 INFO  [success] Generated .bloop/root-test.json[0m
+[0m2021.01.26 14:34:10 INFO  [success] Total time: 1 s, completed Jan 26, 2021 2:34:10 PM[0m
+[0m2021.01.26 14:34:10 INFO  sbt bloopInstall exit: 0[0m
+[0m2021.01.26 14:34:11 INFO  time: ran 'sbt bloopInstall' in 15s[0m
+[0m2021.01.26 14:34:11 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher6551896114714278052/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading 2 projects from '/home/amburkee/Project1/clickstreamprocessor/.bloop'...
+[0m[32m[D][0m Loading project from '/home/amburkee/Project1/clickstreamprocessor/.bloop/root-test.json'
+[0m[32m[D][0m Loading project from '/home/amburkee/Project1/clickstreamprocessor/.bloop/root.json'
+[0m[32m[D][0m Missing analysis file for project 'root-test'
+[0m[32m[D][0m Missing analysis file for project 'root'
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher6551896114714278052/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher6551896114714278052/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.01.26 14:34:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/amburkee/.cache/metals/bsp.trace.json[0m
+[0m2021.01.26 14:34:11 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...[0m
+2021.01.26 14:34:11 INFO  Attempting to connect to the build server...[0m
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher8761148110747451993/bsp.socket'...
+Waiting for the bsp connection to come up...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher2969096424362835392/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher8761148110747451993/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher8761148110747451993/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.01.26 14:34:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/amburkee/.cache/metals/bsp.trace.json[0m
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher2969096424362835392/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher2969096424362835392/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.01.26 14:34:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/amburkee/.cache/metals/bsp.trace.json[0m
+[0m2021.01.26 14:34:11 INFO  time: connected to build server in 0.25s[0m
+[0m2021.01.26 14:34:11 INFO  Connected to Build server v1.4.6-21-464e4ec4[0m
+[0m2021.01.26 14:34:12 WARN  Could not find java sources in Some(/usr/lib/jvm/java-8-openjdk-amd64). Java symbols will not be available.[0m
+[0m2021.01.26 14:34:14 INFO  time: indexed workspace in 2.72s[0m
+[0m2021.01.26 14:34:24 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 14:34:24 INFO  time: compiled root in 0.49s[0m
+Jan 26, 2021 2:34:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 102
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/CspDriver.scala in Array[<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/CspDriver.scala, 54, 54, 69)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/CspDriver.scala in Array[<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/CspDriver.scala, 54, 54, 62)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/CspDriver.scala in Array[<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/CspDriver.scala, 54, 54, 63)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/CspDriver.scala in Array[<error>]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/CspDriver.scala, 54, 54, 64)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/CspDriver.scala in Array[String]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/CspDriver.scala, 54, 54, 67)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/CspDriver.scala in Array[String]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/CspDriver.scala, 54, 54, 67)
+something's wrong: no file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/CspDriver.scala in Array[String]RangePosition(file:///home/amburkee/Project1/clickstreamprocessor/src/main/scala/example/CspDriver.scala, 54, 54, 67)
+Jan 26, 2021 2:35:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 281
+[0m2021.01.26 14:35:08 INFO  compiling root (1 scala source)[0m
+[0m2021.01.26 14:35:09 INFO  time: compiled root in 1s[0m
