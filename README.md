@@ -13,16 +13,16 @@
 8) Hive
 
 ### Features
-
+- Create tables
+- Query Tables
+- Sub-queries
 
 ### Getting Started
-- 
-- 
-- 
-- 
-- 
+- git clone
+- startdfs
+- startyarn
+- sudo service ssh start
 
 ### Usage
+ Read-only. You can copy or reference this code if needed. 
 
-
-### License
