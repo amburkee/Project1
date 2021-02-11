@@ -14,7 +14,8 @@
 
 ### Features
 - Create tables
-- Query Tables
+- Query data
+- Load data into table
 - Sub-queries
 
 ### Getting Started
